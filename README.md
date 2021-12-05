@@ -16,5 +16,6 @@ Hurray for markdown formatting /s.
  Contributors:  Kelly Marriott, Zazel Turner, Levi Watlington
 
 /readme
-Zazel adding to readme :)
+Markup : ##Zazel adding to readme :)##
+
 
