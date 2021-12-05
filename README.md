@@ -16,3 +16,5 @@ Hurray for markdown formatting /s.
  Contributors:  Kelly Marriott, Zazel Turner, Levi Watlington
 
 /readme
+
+scrum master Levi reporting for duty
